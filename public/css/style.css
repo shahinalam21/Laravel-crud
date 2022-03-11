@@ -1,0 +1,13 @@
+.img-thumbnail{
+    width: 50px;
+}
+.pagination{
+    display: flex;
+}
+.form{
+    border: 2px solid rgba(235, 157, 14, 0.74);
+    padding: 20px;
+}
+.btn{
+    cursor: pointer;
+}
